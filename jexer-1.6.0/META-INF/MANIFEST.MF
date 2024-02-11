@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.3
+Built-By: autumn
+Build-Jdk: 11.0.14
+Main-Class: jexer.demos.Demo1
+Implementation-Version: 1.6.0
+
